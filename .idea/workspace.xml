@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="270b4a50-9b45-4123-848d-fb0c3d728489" name="Changes" comment="Creation of main class and test class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="270b4a50-9b45-4123-848d-fb0c3d728489" name="Changes" comment="Creation of tests and develop the code">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Kata6/ArrayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata6/ArrayCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ArrayCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ArrayCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
     "JUnit.ArrayCalculatorTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -83,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704926527975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creation of tests and develop the code">
+      <option name="closed" value="true" />
+      <created>1704927656119</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704927656119</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creation" />
     <MESSAGE value="Creation of main class and test class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creation of main class and test class" />
+    <MESSAGE value="Creation of tests and develop the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation of tests and develop the code" />
   </component>
 </project>
